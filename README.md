@@ -1,7 +1,11 @@
-php-oop-fundamentals
-====================
+### Tuts+ Course: PHP Object Oriented Programming Fundamentals
+#### Instructor: Joost Van Veen
 
-This repository accompanies the Tuts+ course PHP OOP Fundamentals
+We’ve received a number of requests from experienced PHP developers looking to take their skills to the next level with object-oriented programming, and this course is our reply. You’ll learn the basics of object-oriented PHP, including classes and objects right through to inheritance, interfaces and dependency injection.
+
+Source files for the Tuts+ course: [PHP Object Oriented Programming Fundamentals](https://courses.tutsplus.com/courses/php-object-oriented-programming-fundamentals)
+
+
 
 What Is OOP?
 ------------
